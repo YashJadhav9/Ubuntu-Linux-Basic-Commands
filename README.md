@@ -1,4 +1,5 @@
 ** Ubuntu Linux Basic Commands – Self-Learning Journey**
+
 I have been self-learning Ubuntu Linux and practicing basic commands in a VirtualBox environment. This repository documents the fundamental Linux commands I have learned and used for system navigation, file management, and networking.
 
 📌 Basic Linux Commands I Learned
@@ -21,6 +22,7 @@ shutdown   # Shutdown or Restart System
 date       # Display Date and Time
 du         # Disk Usage
 df         # Disk Free
+clear      # clear the terminal screen
 
 How I Practiced These Commands
 	1.	Installed Ubuntu Linux in VirtualBox.
