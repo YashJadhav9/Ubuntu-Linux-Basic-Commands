@@ -16,7 +16,11 @@ mv         # Move or rename files
 rm         # Remove files or directories  
 uname      # Print System Information
 ip addr    # Show IP address of the system  
-ping       # Check network connectivity  
+ping       # Check network connectivity 
+shutdown   # Shutdown or Restart System
+date       # Display Date and Time
+du         # Disk Usage
+df         # Disk Free
 
 How I Practiced These Commands
 	1.	Installed Ubuntu Linux in VirtualBox.
