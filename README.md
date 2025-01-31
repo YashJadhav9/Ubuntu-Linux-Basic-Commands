@@ -11,7 +11,7 @@ ls         - List directory contents
 
 cd         - Change directory  
 
-cd ..      - navigates to the parent directory of the current directory. 
+cd ..      - Navigates to the parent directory of the current directory. 
 
 mkdir      - Create a new directory  
 
