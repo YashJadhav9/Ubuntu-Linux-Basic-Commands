@@ -1,4 +1,4 @@
-** Ubuntu Linux Basic Commands – Self-Learning Journey**
+Ubuntu Linux Basic Commands – Self-Learning Journey
 
 I have been self-learning Ubuntu Linux and practicing basic commands in a VirtualBox environment. This repository documents the fundamental Linux commands I have learned and used for system navigation, file management, and networking.
 
