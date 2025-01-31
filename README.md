@@ -6,7 +6,7 @@ I have been self-learning Ubuntu Linux and practicing basic commands in a Virtua
 
 📂 File & Directory Commands
 
-pwd        # Print working directory  
+pwd        - Print working directory  
 ls         # List directory contents  
 cd         # Change directory  
 mkdir      # Create a new directory  
