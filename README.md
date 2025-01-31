@@ -24,6 +24,8 @@ du         # Disk Usage
 df         # Disk Free
 clear      # clear the terminal screen
 
+![image alt](https://github.com/YashJadhav9/Ubuntu-Linux-Basic-Commands/blob/7e279839090023484f8f1d898745b41e1a08c394/Screenshot%202025-01-31%20201248.png)
+
 How I Practiced These Commands
 	1.	Installed Ubuntu Linux in VirtualBox.
 	2.	Practiced basic terminal commands to navigate the filesystem.
